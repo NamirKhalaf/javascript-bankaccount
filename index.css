@@ -1,0 +1,23 @@
+body {
+    padding: 100px;
+    background-color: rgb(171, 236, 171);
+    color: rgba(0, 0, 0, 0.918);
+
+}
+.element {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.element-center {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+input, button {
+    border-radius:5px;
+    padding: 10px;
+    color:rgba(0, 0, 0, 0.397);
+}
